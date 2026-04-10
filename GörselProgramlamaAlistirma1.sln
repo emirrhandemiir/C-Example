@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36518.9 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GörselProgramlamaAlistirma1", "GörselProgramlamaAlistirma1\GörselProgramlamaAlistirma1.csproj", "{EEAF71AD-66E6-4C3F-B485-EA2821142122}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EEAF71AD-66E6-4C3F-B485-EA2821142122}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEAF71AD-66E6-4C3F-B485-EA2821142122}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEAF71AD-66E6-4C3F-B485-EA2821142122}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEAF71AD-66E6-4C3F-B485-EA2821142122}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EF0538E3-8CEC-4F6E-9084-CA20A3C6376F}
+	EndGlobalSection
+EndGlobal
