@@ -272,6 +272,7 @@ namespace GörselProgramlamaAlistirma1
             {
                 label2.Text = (Convert.ToDouble(textBox1.Text) * Convert.ToDouble(textBox2.Text)).ToString();
             }
+            /*değişiklik */
         }
     }
 }
